@@ -323,3 +323,7 @@ fabric.properties
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/django,pycharm,python,vscode
+#
+#
+# my_settings.py
+.my_settings.py
